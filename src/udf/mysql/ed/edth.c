@@ -10,7 +10,7 @@
   Author: Rares Vernica <rares (at) ics.uci.edu>
 */
 
-#include <my_global.h>
+
 #include <my_sys.h>
 #include <mysql.h>
 #include <string.h>
