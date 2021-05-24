@@ -11,7 +11,7 @@
 */
 
 
-#include <my_sys.h>
+
 #include <mysql.h>
 
 void strtolower(char *s);
